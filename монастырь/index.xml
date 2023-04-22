@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Монастырь on Иргизский Воскресенский мужской монастырь, г. Балаково</title>
-    <link>http://example.org/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/</link>
-    <description>Recent content in Монастырь on Иргизский Воскресенский мужской монастырь, г. Балаково</description>
+    <title>Монастырь on Иргизский Воскресенский мужской монастырь с. Криволучье Балаковского района</title>
+    <link>https://irg-mm.github.io/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/</link>
+    <description>Recent content in Монастырь on Иргизский Воскресенский мужской монастырь с. Криволучье Балаковского района</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <copyright>© Иргизский Воскресенский мужской монастырь. Все права защищены</copyright><atom:link href="http://example.org/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Иргизский Воскресенский мужской монастырь. Все права защищены.</copyright><atom:link href="https://irg-mm.github.io/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Богослужения</title>
-      <link>http://example.org/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/%D0%B1%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/</link>
+      <link>https://irg-mm.github.io/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/%D0%B1%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/%D0%B1%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/</guid>
+      <guid>https://irg-mm.github.io/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/%D0%B1%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/</guid>
       <description>Рассписание на апрель </description>
     </item>
     
     <item>
-      <title>Духовенство</title>
-      <link>http://example.org/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>История</title>
-      <link>http://example.org/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/</link>
+      <link>https://irg-mm.github.io/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/</guid>
+      <guid>https://irg-mm.github.io/%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/</guid>
       <description>Основание обители После манифеста императрицы Екатерины II от 04 декабря 1762 года, разрешающего старообрядцам селиться в левобережье Волги, там было основано несколько сел, появились первые старообрядческие скиты, ставшие впоследствии монастырями. Нижне-Воскресенский монастырь был самым крупным и самым влиятельным среди других Иргизских монастырей. Основатель его – инок Авраамий, бывший крестьянин Казанской губернии.
 В 1789 году в монастыре была построена пятиглавая деревянная церковь в честь Воскресения Христова. В 1795 была построена церковь в честь Рождества Пресвятой Богородицы с приделом во имя апостола и евангелиста Иоанна Богослова.</description>
     </item>
